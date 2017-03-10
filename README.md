@@ -49,6 +49,9 @@ https://ocw.mit.edu/courses/intro-programming/
 - ### Linha de Comando Linux Básico (Udacity)
 https://br.udacity.com/course/linux-command-line-basics--ud595/
 
+- ### Iniciando com Python - School of Net (Português)
+https://www.schoolofnet.com/curso-iniciando-com-python/
+
 ## Aplicações
 
 - ### Lotka-Volterra em Python
